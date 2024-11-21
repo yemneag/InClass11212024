@@ -7,5 +7,8 @@ namespace InClass11212024
 {
     public class SecondPerson
     {
-    }
+        public void hossaiznMwethod()
+
+        { Console.WriteLine("Hello!"); }   
+    }   
 }
