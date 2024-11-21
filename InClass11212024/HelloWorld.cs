@@ -7,5 +7,9 @@ namespace InClass11212024
 {
     public class HelloWorld
     {
+        public void World()
+            {
+            Console.WriteLine("Hello World!");
+            }
     }
 }
